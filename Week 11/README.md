@@ -1,7 +1,7 @@
 # Week 11
 
-### Task 1 Health Pack: Sarae Gallagher 
-### Task 2 Trap: Arabell An 
-### Task 3 Player Mana: Evangelia Mastores
-### Video Link: https://youtu.be/0BrkyXB0Rr0
+### Sarae Gallagher made Task 1 Health Pack
+### Arabell An made Task 2 Trap
+### Evangelia Mastores made Task 3 Player Mana
+### Video Link for all 3 tasks: https://youtu.be/0BrkyXB0Rr0
 
